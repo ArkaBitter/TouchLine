@@ -1,0 +1,487 @@
+{
+  "DeletedItems": [
+    {
+      "Path": "build\\ConcurrencyBenchmark.exe",
+      "Bytes": 39936
+    },
+    {
+      "Path": "build\\ConcurrencyQuoteRequired.exe",
+      "Bytes": 39936
+    },
+    {
+      "Path": "build\\ConcurrencyTrainingBenchmark.exe",
+      "Bytes": 37888
+    },
+    {
+      "Path": "build\\ConcurrencyTrainingRequired.exe",
+      "Bytes": 38400
+    },
+    {
+      "Path": "build\\InferenceBenchmark.exe",
+      "Bytes": 29184
+    },
+    {
+      "Path": "build\\InferenceGpuBenchmark.exe",
+      "Bytes": 27648
+    },
+    {
+      "Path": "build\\LiveQualityCheck.exe",
+      "Bytes": 5447168
+    },
+    {
+      "Path": "build\\LiveQualityCheck.pdb",
+      "Bytes": 876032
+    },
+    {
+      "Path": "build\\MenuFlickerCheck.exe",
+      "Bytes": 5421568
+    },
+    {
+      "Path": "build\\MenuFlickerCheck.pdb",
+      "Bytes": 843264
+    },
+    {
+      "Path": "build\\preview_本地AI设置.png",
+      "Bytes": 49120
+    },
+    {
+      "Path": "build\\preview_经营与荣誉.png",
+      "Bytes": 88980
+    },
+    {
+      "Path": "build\\preview_理念与战术.png",
+      "Bytes": 80040
+    },
+    {
+      "Path": "build\\preview_球员与转会.png",
+      "Bytes": 44372
+    },
+    {
+      "Path": "build\\preview_赛程与积分.png",
+      "Bytes": 68490
+    },
+    {
+      "Path": "build\\preview_赛事统计.png",
+      "Bytes": 39000
+    },
+    {
+      "Path": "build\\preview_阵容与编队.png",
+      "Bytes": 94249
+    },
+    {
+      "Path": "build\\preview_club_names.png",
+      "Bytes": 19255
+    },
+    {
+      "Path": "build\\preview_creation.png",
+      "Bytes": 48052
+    },
+    {
+      "Path": "build\\preview_match_review.png",
+      "Bytes": 18824
+    },
+    {
+      "Path": "build\\preview_match.png",
+      "Bytes": 130474
+    },
+    {
+      "Path": "build\\preview_progress_log.png",
+      "Bytes": 18131
+    },
+    {
+      "Path": "build\\preview_substitution.png",
+      "Bytes": 61414
+    },
+    {
+      "Path": "build\\preview_transfer_budget.png",
+      "Bytes": 11147
+    },
+    {
+      "Path": "build\\preview.png",
+      "Bytes": 68310
+    },
+    {
+      "Path": "build\\privacy-audit-initial.json",
+      "Bytes": 6027
+    },
+    {
+      "Path": "build\\privacy-cleanup.json",
+      "Bytes": 1588
+    },
+    {
+      "Path": "build\\Touchline.Core.dll",
+      "Bytes": 121344
+    },
+    {
+      "Path": "build\\TouchlineManager.pdb",
+      "Bytes": 878080
+    },
+    {
+      "Path": "build\\translation-server.err.log",
+      "Bytes": 68082
+    },
+    {
+      "Path": "build\\translation-server.out.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\verification.json",
+      "Bytes": 3050
+    },
+    {
+      "Path": "build\\report-preview",
+      "Bytes": 6460515.0
+    },
+    {
+      "Path": "build\\report-update-20261021",
+      "Bytes": 5182597.0
+    },
+    {
+      "Path": "build\\report-format-20261022",
+      "Bytes": 10802474.0
+    },
+    {
+      "Path": "触线足球经理项目报告.docx",
+      "Bytes": 56704
+    },
+    {
+      "Path": "LocalAI\\llama-b11719-bin-win-cpu-x64.zip",
+      "Bytes": 19662517
+    },
+    {
+      "Path": "LocalAI\\llama-b11719-bin-win-cuda-12.4-x64.zip",
+      "Bytes": 267483221
+    },
+    {
+      "Path": "LocalAI\\release-b11719.json",
+      "Bytes": 80250
+    },
+    {
+      "Path": "LocalAI\\cuda-part-0.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "LocalAI\\cuda-part-1.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "LocalAI\\cuda-part-2.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "LocalAI\\cuda-part-3.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "LocalAI\\cuda-part-4.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "LocalAI\\cuda-part-5.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "LocalAI\\cuda-part-6.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "LocalAI\\cuda-part-7.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\progress.log",
+      "Bytes": 5249
+    },
+    {
+      "Path": "build\\test-results\\roundtrip.tmsave",
+      "Bytes": 508758
+    },
+    {
+      "Path": "build\\test-results\\roundtrip.tmsave.bak",
+      "Bytes": 503278
+    },
+    {
+      "Path": "build\\test-results\\shop-roundtrip.tmsave",
+      "Bytes": 504850
+    },
+    {
+      "Path": "build\\test-results\\shop-roundtrip.tmsave.bak",
+      "Bytes": 504850
+    },
+    {
+      "Path": "build\\test-results\\ai-fixes\\bounded.log",
+      "Bytes": 848
+    },
+    {
+      "Path": "build\\test-results\\ai-fixes\\bounded.log.1",
+      "Bytes": 848
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\audit.stderr.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\audit.stdout.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\progress.log",
+      "Bytes": 6985
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\runner.stderr.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\runner.stdout.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\server-1.log",
+      "Bytes": 27663
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\server-2.log",
+      "Bytes": 36920
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\server-4.log",
+      "Bytes": 38043
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\isolated-profile\\diagnostics\\local-ai.log",
+      "Bytes": 18752
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\quote-required\\progress.log",
+      "Bytes": 2278
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\quote-required\\runner.stderr.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\quote-required\\runner.stdout.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\quote-required\\server-1.log",
+      "Bytes": 8230
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\quote-required\\server-2.log",
+      "Bytes": 11083
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\quote-required\\server-4.log",
+      "Bytes": 8364
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\quote-required\\isolated-profile\\diagnostics\\local-ai.log",
+      "Bytes": 2729
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training\\progress.log",
+      "Bytes": 2007
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training\\runner.stderr.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training\\runner.stdout.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training\\server-1.log",
+      "Bytes": 7664
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training\\server-2.log",
+      "Bytes": 7511
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training\\server-4.log",
+      "Bytes": 7991
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training\\isolated-profile\\diagnostics\\local-ai.log",
+      "Bytes": 2419
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training-required\\progress.log",
+      "Bytes": 2277
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training-required\\runner.stderr.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training-required\\runner.stdout.log",
+      "Bytes": 0
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training-required\\server-1.log",
+      "Bytes": 7527
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training-required\\server-2.log",
+      "Bytes": 7511
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training-required\\server-4.log",
+      "Bytes": 7662
+    },
+    {
+      "Path": "build\\test-results\\concurrency-20261020\\training-required\\isolated-profile\\diagnostics\\local-ai.log",
+      "Bytes": 1985
+    },
+    {
+      "Path": "build\\test-results\\end-to-end-20261020\\blocked-path.tmp",
+      "Bytes": 1105141
+    },
+    {
+      "Path": "build\\test-results\\end-to-end-20261020\\checkpoint.tmsave",
+      "Bytes": 1694879
+    },
+    {
+      "Path": "build\\test-results\\end-to-end-20261020\\checkpoint.tmsave.bak",
+      "Bytes": 1693825
+    },
+    {
+      "Path": "build\\test-results\\end-to-end-20261020\\decisions.jsonl",
+      "Bytes": 385653
+    },
+    {
+      "Path": "build\\test-results\\end-to-end-20261020\\run.log",
+      "Bytes": 2147528
+    },
+    {
+      "Path": "build\\test-results\\end-to-end-20261020\\season-1.tmsave",
+      "Bytes": 1928392
+    },
+    {
+      "Path": "build\\test-results\\inference-20261021\\cpu-server.log",
+      "Bytes": 48647
+    },
+    {
+      "Path": "build\\test-results\\inference-20261021\\gpu-server.log",
+      "Bytes": 99837
+    },
+    {
+      "Path": "build\\test-results\\inference-20261021\\progress.log",
+      "Bytes": 9349
+    },
+    {
+      "Path": "build\\test-results\\inference-20261021\\isolated-profile\\diagnostics\\local-ai.log",
+      "Bytes": 13803
+    },
+    {
+      "Path": "build\\test-results\\inference-20261021\\runtime-profile\\diagnostics\\local-ai.log",
+      "Bytes": 20469
+    },
+    {
+      "Path": "build\\test-results\\live-coaching\\match-zh.png",
+      "Bytes": 140733
+    },
+    {
+      "Path": "build\\test-results\\live-coaching\\swap-en.png",
+      "Bytes": 33245
+    },
+    {
+      "Path": "build\\test-results\\live-coaching\\swap-zh.png",
+      "Bytes": 31308
+    },
+    {
+      "Path": "build\\test-results\\live-coaching\\tactic-en.png",
+      "Bytes": 11433
+    },
+    {
+      "Path": "build\\test-results\\live-coaching\\tactic-zh.png",
+      "Bytes": 11990
+    },
+    {
+      "Path": "build\\test-results\\live-coaching\\isolated-profile\\diagnostics\\local-ai.log",
+      "Bytes": 28088
+    },
+    {
+      "Path": "build\\test-results\\live-quality\\isolated-profile\\diagnostics\\local-ai.log",
+      "Bytes": 177661
+    },
+    {
+      "Path": "build\\test-results\\main-menu\\en-1180.png",
+      "Bytes": 926482
+    },
+    {
+      "Path": "build\\test-results\\main-menu\\en-1440.png",
+      "Bytes": 1524577
+    },
+    {
+      "Path": "build\\test-results\\main-menu\\zh-1180.png",
+      "Bytes": 925138
+    },
+    {
+      "Path": "build\\test-results\\main-menu\\zh-1440.png",
+      "Bytes": 1524181
+    },
+    {
+      "Path": "build\\test-results\\menu-flicker\\en.png",
+      "Bytes": 927324
+    },
+    {
+      "Path": "build\\test-results\\menu-flicker\\zh.png",
+      "Bytes": 925138
+    },
+    {
+      "Path": "build\\test-results\\menu-flicker\\isolated-profile\\autosave.tmsave",
+      "Bytes": 514177
+    },
+    {
+      "Path": "build\\test-results\\menu-flicker\\isolated-profile\\autosave.tmsave.bak",
+      "Bytes": 514177
+    },
+    {
+      "Path": "build\\test-results\\tasks-22-23-26-27\\match-en.png",
+      "Bytes": 143026
+    },
+    {
+      "Path": "build\\test-results\\tasks-22-23-26-27\\match-hover.png",
+      "Bytes": 144051
+    },
+    {
+      "Path": "build\\test-results\\tasks-22-23-26-27\\match-minimum.png",
+      "Bytes": 111107
+    },
+    {
+      "Path": "build\\test-results\\tasks-22-23-26-27\\match-zh.png",
+      "Bytes": 142547
+    },
+    {
+      "Path": "build\\test-results\\tasks-22-23-26-27\\overview.png",
+      "Bytes": 108729
+    },
+    {
+      "Path": "build\\test-results\\tasks-22-23-26-27\\statistics.png",
+      "Bytes": 52495
+    },
+    {
+      "Path": "build\\test-results\\transactions\\checkpoint.tmsave",
+      "Bytes": 360134
+    },
+    {
+      "Path": "build\\test-results\\transactions\\checkpoint.tmsave.bak",
+      "Bytes": 360134
+    },
+    {
+      "Path": "build\\test-results\\transactions\\directory-not-save.tmp",
+      "Bytes": 360134
+    }
+  ],
+  "DeletedBytes": 345837145.0,
+  "PreservedSHA256": {
+    "触线足球经理项目报告_最新版.docx": "AC17A6767B7282847FDC6F83B2462633A1723CE398075502D7472DFAB3CB9247",
+    "build\\TouchlineManager.exe": "6C1DC8A802255468DF0196A24DA2526BF979617B2A9FF42FD4F0D0BE5CA031B7",
+    "LocalAI\\qwen2.5-1.5b-instruct-q4_k_m.gguf": "6A1A2EB6D15622BF3C96857206351BA97E1AF16C30D7A74EE38970E434E9407E"
+  },
+  "Verified": true
+}
