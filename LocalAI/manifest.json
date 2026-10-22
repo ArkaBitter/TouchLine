@@ -1,0 +1,26 @@
+{
+  "runtime_release": "b11719",
+  "runtime_url": "https://github.com/ggml-org/llama.cpp/releases/download/b11719/llama-b11719-bin-win-cpu-x64.zip",
+  "runtime_sha256": "1b1234d208a8b851cc27cd3d96b850d1547a4e5cfc5cd75f0a9fdd1d4c5bea20",
+  "model_repo": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+  "model_file": "qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "model_sha256": "6a1a2eb6d15622bf3c96857206351ba97e1af16c30d7a74ee38970e434e9407e",
+  "model_bytes": 1117320736,
+  "cuda_runtime": {
+    "release": "b11719",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11719/llama-b11719-bin-win-cuda-12.4-x64.zip",
+    "sha256": "3a7c399487a315cad888cd5394f1e144993ec25676148930cf2069a6c2fd6360",
+    "folder": "runtime-cuda",
+    "dependencies_source": "Installed NVIDIA CUDA Toolkit 12.5 redistributable libraries copied into project runtime-cuda",
+    "dependency_sha256": {
+      "cublas64_12.dll": "e4f9eaa7f1c15527e2ff0e7a80d28cad2f39d468ea52ae959363c9c8447d91af",
+      "cublasLt64_12.dll": "c5d4e5930f3e2d2410f7121409acd9f0ad0a41669a8ca9567a60d9518fe00953",
+      "cudart64_12.dll": "d8731eb622c13d2bec952d152122c04ff976c1427ba7299f0b084bb7b406e32c"
+    },
+    "licenses": [
+      "runtime-cuda/EULA-CUDA.txt",
+      "runtime-cuda/LICENSE-CUDA.txt"
+    ],
+    "fallback": "runtime (CPU)"
+  }
+}
